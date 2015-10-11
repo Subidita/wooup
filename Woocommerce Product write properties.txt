@@ -1,0 +1,17 @@
+"title"	        = "", //string
+"type"          = "", //string - Options [simple,grouped,external,variable]
+"status"        = "", //string - default [publish,draft]
+"sku"           = "", //string
+"regular_price" = "", //float
+"sale_price"    = "", //float
+"sale_price_dates_from" = "", //yyyy-mm-dd format
+"sale_price_dates_to" = "", //yyyy-mm-dd format
+"managing_stock" = "", //boolean 
+"stock_quantity" = "", //integer
+"in_stock"       = "", //boolean
+"backorders_allowed" = "", //boolean
+"description"    = "", //string 
+"short_description" = "", //string
+
+
+
